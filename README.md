@@ -27,7 +27,7 @@ The main goal was to design a food ordering experience that reduces complexity a
 - Make food quality easier to understand
 - Reduce uncertainty after payment
 
-**Live Demo:** 
+**Live Demo:** https://food-delivery-app-ux-case-study.vercel.app/
 
 ## 👩‍💻 UX Design Process
 
