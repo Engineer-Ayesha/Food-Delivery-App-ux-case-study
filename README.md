@@ -2,8 +2,6 @@
 
 > A user-centered food delivery experience designed to make food ordering **simple, accessible, fast, and trustworthy** for busy professionals and users with disabilities.
 
----
-
 ## ✨ Project Overview
 
 The **Food Delivery App** is a user-centered mobile application designed to simplify the food ordering experience.
@@ -16,9 +14,6 @@ The project focuses on helping users:
 - 💳 Complete payments securely
 - ✅ Receive clear order confirmation
 - 🚚 Understand estimated delivery time
-
----
-
 ## 🎯 Project Goals
 
 The main goal was to design a food ordering experience that reduces complexity and builds user confidence throughout the ordering journey.
@@ -33,13 +28,13 @@ The main goal was to design a food ordering experience that reduces complexity a
 - Reduce uncertainty after payment
 
 **Live Demo:** 
+
 ## 👩‍💻 UX Design Process
 
 This case study follows a user-centered UX design process:
 
 ```text
 Empathize → Define → Ideate → Wireframe → Prototype → Test
-
 🔍 Empathize
 Research Methods
 
@@ -254,3 +249,6 @@ Engineer Ayesha Khalid
 🎨 UX/UI Designer | 💻 Frontend Developer
 
 ⭐ Thank you for exploring this UX case study!
+
+
+
